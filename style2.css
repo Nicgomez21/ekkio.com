@@ -1,0 +1,272 @@
+.slider{
+    position: absolute;
+    width: 1920px;
+    height: 602px;
+    left: 0px;
+    top: 2820px;
+}
+.slider ul{
+    display: flex;
+    animation:cambio 40s infinite alternate linear;
+}
+.slider li{
+    width: 100%;
+    list-style: none;
+}
+
+@keyframes cambio{
+    0%{margin-left: 0;}
+    15%{margin-left: 0;}
+
+    20%{margin-left: -100%;}
+    35%{margin-left: -100%;}
+
+    40%{margin-left: -200%;}
+    55%{margin-left: -200%;}
+
+    60%{margin-left: -300%;}
+    75%{margin-left: -300%;}
+
+    80%{margin-left: -400%;}
+    100%{margin-left: -400%;}
+
+}
+.slider h1{
+    position: absolute;
+    width: 471px;
+    height: 108px;
+    left: 395px;
+    top: 111px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 108px;
+    color:#7BD3A0;
+    animation:texto1 40s infinite alternate linear;
+}
+.slider p{
+    position: absolute;
+    width: 673px;
+    height: 210px;
+    left: 183px;
+    top: 278px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+    animation:texto1 40s infinite alternate linear;
+}
+@keyframes texto1{
+    0%{margin-left: 0;}
+    15%{margin-left: 0;}
+
+    20%{margin-left: -100%;}
+    35%{margin-left: -100%;}
+
+    40%{margin-left: -200%;}
+    55%{margin-left: -200%;}
+
+    60%{margin-left: -300%;}
+    75%{margin-left: -300%;}
+
+    80%{margin-left: -400%;}
+    100%{margin-left: -400%;}
+
+}
+.slider h2{
+    position: absolute;
+    width: 277px;
+    height: 108px;
+    left: 2499px;
+    top: 113px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 108px;
+    color:#7BD3A0;
+    animation:texto2 40s infinite alternate linear;
+}
+.slider p1{
+    position: absolute;
+    width: 673px;
+    height: 138px;
+    left: 2103px;
+    top: 280px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+    animation:texto2 40s infinite alternate linear;
+}
+@keyframes texto2{
+    0%{margin-left: 0;}
+    15%{margin-left: 0;}
+
+    20%{margin-left: -100%;}
+    35%{margin-left: -100%;}
+
+    40%{margin-left: -200%;}
+    55%{margin-left: -200%;}
+
+    60%{margin-left: -300%;}
+    75%{margin-left: -300%;}
+
+    80%{margin-left: -400%;}
+    100%{margin-left: -400%;}
+}
+
+.slider h3{
+    position: absolute;
+    width: 485px;
+    height: 108px;
+    left: 4212px;
+    top: 113px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 108px;
+    color:#7BD3A0;
+    animation:texto3 40s infinite alternate linear;
+}
+.slider p2{
+    position: absolute;
+    width: 673px;
+    height: 138px;
+    left: 4024px;
+    top: 280px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+    animation:texto3 40s infinite alternate linear;
+}
+@keyframes texto3{
+    0%{margin-left: 0;}
+    15%{margin-left: 0;}
+
+    20%{margin-left: -100%;}
+    35%{margin-left: -100%;}
+
+    40%{margin-left: -200%;}
+    55%{margin-left: -200%;}
+
+    60%{margin-left: -300%;}
+    75%{margin-left: -300%;}
+
+    80%{margin-left: -400%;}
+    100%{margin-left: -400%;}
+}
+
+.slider h4{
+    position: absolute;
+    width: 366px;
+    height: 108px;
+    left: 6251px;
+    top: 113px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 108px;
+    color:#7BD3A0;
+    animation:texto4 40s infinite alternate linear;
+}
+.slider p3{
+    position: absolute;
+    width: 673px;
+    height: 138px;
+    left: 5944px;
+    top: 280px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+    animation:texto4 40s infinite alternate linear;
+}
+@keyframes texto4{
+    0%{margin-left: 0;}
+    15%{margin-left: 0;}
+
+    20%{margin-left: -100%;}
+    35%{margin-left: -100%;}
+
+    40%{margin-left: -200%;}
+    55%{margin-left: -200%;}
+
+    60%{margin-left: -300%;}
+    75%{margin-left: -300%;}
+
+    80%{margin-left: -400%;}
+    100%{margin-left: -400%;}
+}
+
+.slider h5{
+    position: absolute;
+    width: 366px;
+    height: 108px;
+    left: 8172px;
+    top: 113px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 108px;
+    color:#7BD3A0;
+    animation:texto4 40s infinite alternate linear;
+}
+.slider p4{
+    position: absolute;
+    width: 673px;
+    height: 138px;
+    left: 7865px;
+    top: 280px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+    animation:texto4 40s infinite alternate linear;
+}
+

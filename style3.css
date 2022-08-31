@@ -1,0 +1,506 @@
+
+.precios{
+    position: absolute;
+    width: 1920px;
+    height: 850px;
+    left: 0px;
+    top: 3420px;
+}
+
+.precios img{
+    position: absolute;
+    width: 1920px;
+    height: 850px;
+    left: 0px;
+    top: 100px;
+}
+.encabezado h1{
+    position: absolute;
+    width: 238px;
+    height: 40px;
+    left: 1165px;
+    top: 160px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #7CD6A2;
+}
+.encabezado p{
+    position: absolute;
+    position: absolute;
+    width: 622px;
+    height: 29px;
+    left: 948px;
+    top: 236px;
+    font-family: 'Ubuntu';
+    font-style:normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.titulos{
+    position: absolute;
+    width: 997px;
+    height: 60px;
+    left: 738px;
+    top: 332px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.title-precios h2{
+    position: absolute;
+    width: 155px;
+    height: 60px;
+    left: 738px;
+    top: 332px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.negocio h2{
+    position: absolute;
+    width: 128px;
+    height: 60px;
+    left: 1176px;
+    top: 332px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.cadena h2{
+    position: absolute;
+    width: 138px;
+    height: 60px;
+    left: 1610px;
+    top: 332px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.cifras h1{
+    position: absolute;
+    width: 212px;
+    height: 61px;
+    left: 738px;
+    top: 470px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+}
+.cifras h2{
+    position: absolute;
+    width: 212px;
+    height: 61px;
+    left: 1136px;
+    top: 470px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+}
+.cifras h3{
+    position: absolute;
+    width: 212px;
+    height: 61px;
+    left: 1570px;
+    top: 470px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+}
+
+.paquetes1 p{
+    position: absolute;
+    width: 197px;
+    height: 190px;
+    left: 717px;
+    top: 551px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+}
+.paquetes2{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+    position: absolute;
+    width: 197px;
+    height: 190px;
+    left: 1141px;
+    top: 557px;
+}
+.paquetes3{
+    position: absolute;
+    width: 197px;
+    height: 190px;
+    left: 1567px;
+    top: 557px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+}
+.add a{
+    position: absolute;
+    width: 136px;
+    height: 36px;
+    left: 756px;
+    top: 790px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.add a:hover{
+    color: #7CD6A2;
+}
+.add2 a{
+    position: absolute;
+    width: 136px;
+    height: 36px;
+    left: 1174px;
+    top: 790px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.add2 a:hover{
+    color: #7CD6A2;
+}
+.add3 a{
+    position: absolute;
+    width: 136px;
+    height: 36px;
+    left: 1599px;
+    top: 790px;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.add3 a:hover{
+    color: #7CD6A2;
+}
+
+.distribucion img{
+    position: absolute;
+    width: 1920px;
+    height: 1130px;
+    left: 0px;
+    top: 4475px;
+}
+.numero-uno img{
+    position: absolute;
+    width: 87px;
+    height: 87px;
+    left: 201px;
+    top: 4553px;
+}
+.numero-uno h3{
+    position: absolute;
+    width: 219px;
+    height: 68px;
+    left: 126px;
+    top: 4832px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.numero-dos img{
+    position: absolute;
+    width: 80px;
+    height: 87px;
+    left: 562px;
+    top: 4553px;
+}
+.numero-dos h3{
+    position: absolute;
+    width: 185px;
+    height: 102px;
+    left: 501px;
+    top: 4815px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.numero-tres img{
+    position: absolute;
+    width: 87px;
+    height: 86px;
+    left: 916px;
+    top: 4553px;
+}
+.numero-tres h3{
+    position: absolute;
+    width: 245px;
+    height: 102px;
+    left: 837px;
+    top: 4815px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.numero-cuatro img{
+    position: absolute;
+    width: 87px;
+    height: 87px;
+    left: 1274px;
+    top: 4553px;
+}
+.numero-cuatro h3{
+    position: absolute;
+    width: 240px;
+    height: 102px;
+    left: 1206px;
+    top: 4815px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.numero-cinco img{
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    left: 1640px;
+    top: 4561px;
+}
+.numero-cinco h3{
+    position: absolute;
+    width: 202px;
+    height: 68px;
+    left: 1575px;
+    top: 4832px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    color: #FFFFFF;
+    }
+.contactos img{
+    position: absolute;
+    width: 1854px;
+    height: 888px;
+    left: 66px;
+    top: 5605px;
+}
+.titulo-grande{
+    position: absolute;
+    width: 549px;
+    height: 238px;
+    left: 233px;
+    top: 5922px;
+}
+.titulo-grande h1{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 78px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0D3B31;
+}
+.titulo-grande p{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 40px;
+    }
+.more{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.more h2{
+    position: absolute;
+    width: 149px;
+    height: 40px;
+    left: 1601px;
+    top: 5795px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+}
+.more p{
+    position: absolute;
+    width: 205px;
+    height: 40px;
+    left: 1592px;
+    top: 5881px;
+}
+.more p1{
+    position: absolute;
+    width: 156px;
+    height: 40px;
+    left: 1592px;
+    top: 5970px;
+}
+.more p2{
+    position: absolute;
+    width: 228px;
+    height: 40px;
+    left: 1592px;
+    top: 6067px;
+}
+.formulario{
+    position: absolute;
+    width: 366px;
+    height: 445px;
+    left: 917px;
+    top: 5922px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.formulario label{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    display: flex;
+    align-items: center;
+}
+.formulario input{
+    width: 366px;
+    height: 66px;
+    left: 1283px;
+    top: 503px;
+}
+.formulario button{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    background: #001613;
+    border-radius: 20px;
+    color: #FFFFFF;
+    width: 136px;
+    height: 52px;
+    left: 1300px;
+}
+.redes{
+    width: 38px;
+}
